@@ -119,6 +119,30 @@
 
 
 
+#### Hardcore computer science courses
++ Design of circuits and system 
++ Computer architecture 
++ Networks
++ Computer hardware 
++ Discrete math 
++ Theory of computation 
++ Computational linguistics 
++ Algorithms and complexity 
++ Intelligent machines : reasoning, actions, and plans
++ Autonomous and multi-robot system 
++ Networks design project 
++ Intelligent systems: design and ethical challenges 
++ System programming & machine organisation 
++ Computer graphics 
++ Compilers 
++ OS 
++ Cryptography 
++ Calculus, series and different equations 
++ Data system 
+
+
+
+
 
 
 
