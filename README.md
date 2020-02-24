@@ -142,7 +142,52 @@
 
 
 
+#### Hardware
++ The hardware hacker 
++ Principle of analog electronics 
++ Using browsers with hardware for embedded systems
++ Complete A+ Guide to IT Hardware and Software: A CompTIA A+ Core 1 (220-1001) and CompTIA A+ Core 2 (220-1002) Textbook, 8th Edition
++ Build Your Own IoT Platform: Develop a Fully Flexible and Scalable Internet of Things Platform in 24 Hours
++ Hands-On Industrial Internet of Things
++ IoT Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things
++ The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things
++ Custom Raspberry Pi Interfaces: Design and build hardware interfaces for the Raspberry Pi
++ Building Embedded Systems: Programmable Hardware
++ Cybersecurity of Industrial Systems
++ Fog and Edge Computing
++ Internet of Things for Architects
++ Azure Internet of Things Revealed: Architecture and Fundamentals
++ Practical Industrial Internet of Things Security
++ Micro:bit for Mad Scientists
++ Hands-On Internet of Things with MQTT 
++ 
 
+
+
+
+
+#### Smart system 
++ Demystifying Smart Cities: Practical Perspectives on How Cities Can Leverage the Potential of New Technologies
++ Hands-On Artificial Intelligence for IoT
++ Raspberry Pi Hardware Reference
++ IoT Penetration Testing Cookbook
++ Internet of Things Programming Projects
++ Industrial Internet Application Development
++ Mastering Internet of Things
++ Internet of Things in Biomedical Engineering
++ Role of Blockchain Technology in IoT Applications
++ Hands-On IoT Solutions with Blockchain
++ Building Smart Drones with ESP8266 and Arduino
++ Complete CompTIA A+ Guide to IT Hardware and Software, Seventh Edition
++ Program the Internet of Things with Swift for iOS: Learn How to Program Apps for the Internet of Things
++ Enterprise Internet of Things Handbook
++ Scalable Architecture for the Internet of Things
++ Design, Launch, and Scale IoT Services: A Practical Business Approach
++ Designing Purpose-Built Drones for Ardupilot Pixhawk 2.1
++ Architecting the Industrial Internet
++ Make: High-Power Rockets
++ Technologies for Smart Sensors and Sensor Fusion
++ Enterprise IoT 
 
 
 
