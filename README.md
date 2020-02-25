@@ -1,7 +1,7 @@
 # aerospaceAI
 #### Collect cool stuff 
 
-#### Books to read to become the next God of the century
+#### Books to read to become the next God of the century who create the next empire of the universe
 ##### Aerospace
 + Heat transfer in aerospace applications 
 + System engineer for aerospace 
